@@ -6,4 +6,6 @@
         num = 123.0 / 456;
         printf("O valor e %lf",num);
 
+        return 0;
+
     }
